@@ -160,3 +160,5 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stellarbearx&theme=default" alt="stellarbearx" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stellarbearx&show_icons=true&locale=en" alt="stellarbearx" /></p>
