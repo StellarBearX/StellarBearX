@@ -162,4 +162,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stellarbearx&show_icons=true&locale=en&layout=compact" alt="stellarbearx" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stellarbearx&show_icons=true&locale=en" alt="stellarbearx" /></p>
