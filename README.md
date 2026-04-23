@@ -16,7 +16,7 @@
 
 ---
 
-<img align="top" src="https://i.pinimg.com/originals/00/81/7e/00817ec76a94ec4467d3116ea76c3f33.gif" width="180"/>
+<img align="center" src="https://i.pinimg.com/originals/00/81/7e/00817ec76a94ec4467d3116ea76c3f33.gif" width="180"/>
 
 ### 🐝 About Me
 
