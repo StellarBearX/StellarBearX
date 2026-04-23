@@ -1,9 +1,5 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7c3aed,100:a78bfa&height=200&section=header&text=Hey!%20I'm%20KHEMP%20🐝&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20from%20🇹🇭%20Thailand&descAlignY=58&descSize=18&descColor=e2d9f3"/>
-
 <div align="center">
-
 <a href="https://github.com/StellarBearX">
 </a>
 
@@ -11,13 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=StellarBearX&label=👀+Profile+Views&color=7c3aed&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/StellarBearX?label=Followers&style=for-the-badge&color=a78bfa&labelColor=1a1a2e" />
-
 </div>
 
 ---
-
-<img align="center" src="https://i.pinimg.com/originals/00/81/7e/00817ec76a94ec4467d3116ea76c3f33.gif" width="180"/>
-
 ### 🐝 About Me
 
 ```yaml
