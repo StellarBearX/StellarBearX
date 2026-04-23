@@ -1,3 +1,8 @@
+ปัญหาหลักคือ **```yaml ไม่ได้ปิด** เลยกิน content ที่เหลือทั้งหมด!
+
+---
+
+```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7c3aed,100:a78bfa&height=200&section=header&text=Hey!%20I'm%20KHEMP%20🐝&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20from%20🇹🇭%20Thailand&descAlignY=58&descSize=18&descColor=e2d9f3"/>
 
 <div align="center">
@@ -26,10 +31,19 @@
 ║  Role    :  Full-Stack Developer  ║
 ║  Status  :  Currently Buzzing 🐝 ║
 ╚══════════════════════════════════╝
+```
+
+- 🌱 Currently learning **SpringBoot, FastAPI, ReactJS, Kotlin**
+- 💬 Ask me about **ReactJS, NextJS, TypeScript**
+- 📫 Reach me: **kunanan.ws@gmail.com**
+- ⚡ Fun fact: I code like a bee — **always busy, always building** 🍯
 
 <br clear="right"/>
 
-🛠️ Tech Stack
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
 <p><b>🎨 Frontend</b></p>
@@ -69,7 +83,10 @@
 
 </div>
 
-📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=StellarBearX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true" />
@@ -79,12 +96,16 @@
 
 </div>
 
-🏆 Trophies
+---
+
+### 🏆 Trophies
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=StellarBearX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:1a1a2e&height=120&section=footer"/>
-```
