@@ -1,8 +1,5 @@
-ปัญหาหลักคือ **```yaml ไม่ได้ปิด** เลยกิน content ที่เหลือทั้งหมด!
 
----
 
-```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:7c3aed,100:a78bfa&height=200&section=header&text=Hey!%20I'm%20KHEMP%20🐝&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20from%20🇹🇭%20Thailand&descAlignY=58&descSize=18&descColor=e2d9f3"/>
 
 <div align="center">
