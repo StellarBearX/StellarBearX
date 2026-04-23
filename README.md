@@ -5,7 +5,6 @@
 <div align="center">
 
 <a href="https://github.com/StellarBearX">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=🌱+Learning+SpringBoot+%7C+FastAPI+%7C+Kotlin;💻+ReactJS+%2F+NextJS+%2F+TypeScript+Enthusiast;🐝+Buzz+Buzz...+Always+Building+Something!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +16,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/00/81/7e/00817ec76a94ec4467d3116ea76c3f33.gif" width="180"/>
+<img align="top" src="https://i.pinimg.com/originals/00/81/7e/00817ec76a94ec4467d3116ea76c3f33.gif" width="180"/>
 
 ### 🐝 About Me
 
@@ -93,16 +92,6 @@
 
 </div>
 
----
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StellarBearX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:1a1a2e&height=120&section=footer"/>
